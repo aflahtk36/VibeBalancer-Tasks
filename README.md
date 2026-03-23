@@ -10,7 +10,7 @@ Please complete the tasks in the following order:
 1. **Task 1**: Learn Git and GitHub basics.
 2. **Task 2**: Learn Python programming fundamentals.
 3. **Task 3**: Learn about servers, REST APIs, and FastAPI.
-4. **Task 4**: Week 2 → Blocking vs Non-blocking + Concurrency (Threading).
+4. **Task 4**: Blocking vs Non-blocking + Concurrency (Threading).
 
 ### Notes
 
